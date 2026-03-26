@@ -1,4 +1,4 @@
-# 𝐁𝐋𝐀𝐂𝐊-𝐌𝐃 𝐁𝐎𝐓
+# Pixy Mengech 𝐁𝐎𝐓
 <!-- Glowing Footer -->
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
