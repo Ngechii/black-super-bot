@@ -1,10 +1,10 @@
-# 𝐁𝐋𝐀𝐂𝐊-𝐌𝐃 𝐁𝐎𝐓
+# PIXY-MENGECH 𝐁𝐎𝐓
 <!-- Glowing Footer -->
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HI+THIS+IS+BLACK-MD;A+MULTI+DEVICE+WHATSAPP+BOT;SCRIPTED+BY+BLACKIE+TECH;STAR+AND+FORK+OUR+REPO" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HI+THIS+IS+BLACK-MD;A+MULTI+DEVICE+WHATSAPP+BOT;SCRIPTED+BY+MENGECH+TECH;STAR+AND+FORK+OUR+REPO" alt="Typing SVG" /></a>
   </p>
 
 <!-- Glowing Footer -->
@@ -21,19 +21,19 @@
   
 <p align="center">
   
-[![Black Merchant](https://github.com/Blackie254.png?lenght=50width=50)](https://github.com/Blackie254)
+[![Ceo mangech](https://github.com/Ngechii.png?lenght=50width=50)](https://github.com/Ngechii)
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝐁𝐋𝐀𝐂𝐊 𝐌𝐃" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=pixy" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator- 𝐁𝐋𝐀𝐂𝐊𝐌𝐄𝐑𝐂𝐇𝐀𝐍𝐓-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator- ceo Mengech-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Blackie254?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Blackie254?label=Followers&style=social"></a>
-<a href="https://github.com/Blackie254/black-super-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Blackie254/black-super-bot?&style=social"></a>
-<a href="https://github.com/Blackie254/black-super-bot/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Blackie254/black-super-bot?style=social"></a>
-<a href="https://github.com/Blackie254/black-super-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Blackie254/black-super-bot?label=Watching&style=social"></a>
+<a href="https://github.com/Ngechii?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Mengech?label=Followers&style=social"></a>
+<a href="https://github.com/Ngechii/mengech-pixy-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mengech/pixy-bot?&style=social"></a>
+<a href="https://github.com/Ngechii/ceo Mengech/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Ngechii/pixy-super-bot?style=social"></a>
+<a href="https://github.com/mengech/pixy-super-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ceo mengech/black-super-bot?label=Watching&style=social"></a>
 </p>
  
 <!-- Glowing Footer -->
@@ -45,7 +45,7 @@
 
 <p align="center">
 
-<a href="https://api.whatsapp.com/send?phone=254114283550&text=Hello+black"><img src="https://img.shields.io/badge/Contact 𝐁𝐋𝐀𝐂𝐊𝐌𝐄𝐑𝐂𝐇𝐀𝐍𝐓 -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send?phone=254798574296&text=Hello+Mengech"><img src="https://img.shields.io/badge/Contact Ceo mengech -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/Baileys)***
@@ -77,13 +77,13 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 ## ` Fork this repo`
 <p align="centre">
-<a href="https://github.com/Blackie254/black-super-bot/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="FORK RAVEN-BOT" width="160"></a>
+<a href="https://github.com/Ngechii/Mengech-super-bot/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="FORK RAVEN-BOT" width="160"></a>
 <p/>
   
 Linking/Pairing:
 ## ` Pair onrender`
 <p align="centre">
-<a href="https://bot.blueblizzards.site"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-green?style=for-the-badge&logo=render"></a>
+<a href="https://bot.pixy Mengech"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-green?style=for-the-badge&logo=render"></a>
 <p/>
             
 <!-- Glowing Footer -->
@@ -91,16 +91,16 @@ Linking/Pairing:
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
-###  GET BLACK-MD:
+###  GET pixt mengech-MD:
 
 
  
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://bot.blueblizzards.site)***
+ ***[!just there)***
  
 
     
 
-- Get the automated black md bot.
+- Get the automated pixy Mengech bot.
  </h2>
 
 <!-- Glowing Footer -->
@@ -127,7 +127,7 @@ Linking/Pairing:
 
 [MIT License]((https://github.com/Blackie254/black-super-bot)/LICENSE)
 
-Copyright (c) 2025 𝐁𝐋𝐀𝐂𝐊𝐌𝐄𝐑𝐂𝐇𝐀𝐍𝐓  
+Copyright (c) 2026 C.E.O Mengech  
 
 <!-- Glowing Footer -->
 <p align="center">
